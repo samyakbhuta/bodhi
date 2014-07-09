@@ -1,0 +1,32 @@
+# Configuration file for Luminos.     http://luminos.menteslibres.org
+#
+# You are viewing a YAML formatted file, read more about the format
+# at http://www.yaml.org.
+#
+# Note: Use two space indentations instead of the \t character.
+#
+#
+
+page:
+  # Name of the site.
+  brand: "LearnLab"
+
+  # Some properties for <head>.
+  head:
+    # Title that appears on the <title> tag.
+    title: "Welcome to LearnLab"
+
+  # Some properties for <body>.
+  body:
+    # Title that appears on the <h1> tag.
+    title: "LearnLab"
+
+    # Top navigation bar.
+    menu:
+      - { text: "English", url: "./English" }
+      - { text: "ગુજરાતી", url: "./ગુજરાતી" }
+      - { text: "Today's Activities", url: "./assignments" }
+
+    # Top-right navigation helper.
+    menu_pull:
+      - { text: "Home", url: "/" }
