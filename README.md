@@ -6,7 +6,7 @@
 * Does ocean of information that is *The Internet* overwhelms you ?
 * Do you find it difficult to discover the best video on learning fraction on internet ?
 * How about doing some exercise once you have learnt what is set theory ?
-* Don't you think you should understand how laviation works with live video and experiments rather then reading about it ?
+* Don't you think you should understand how lavitation works with live video and experiments rather then reading about it ?
 
 
 #### Bodhi is the answer
