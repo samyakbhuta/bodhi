@@ -1,4 +1,4 @@
-## Welcome to LearnLab !
+## Welcome to Bodhi !
 
 
 Lorem ipsum dolor sit amet, ei vix quot iusto diceret, impetus vituperata has ne, placerat delicata ullamcorper id ius. His feugiat legimus iracundia no. Pri vidisse qualisque tincidunt at, est clita iudicabit intellegam ea. Ei sumo nullam suavitate ius, probo pericula cu vel. Et doming senserit usu, ei sit melius suavitate. Cibo aliquip id sed, cu eos elit rationibus posidonium. Est numquam accusata eu, vim ex pertinax prodesset maiestatis.

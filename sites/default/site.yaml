@@ -9,17 +9,17 @@
 
 page:
   # Name of the site.
-  brand: "LearnLab"
+  brand: "Bodhi"
 
   # Some properties for <head>.
   head:
     # Title that appears on the <title> tag.
-    title: "Welcome to LearnLab"
+    title: "Welcome to Bodhi"
 
   # Some properties for <body>.
   body:
     # Title that appears on the <h1> tag.
-    title: "LearnLab"
+    title: "Bodhi"
 
     # Top navigation bar.
     menu:

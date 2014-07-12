@@ -82,7 +82,7 @@
 
       <div class="hero-unit">
 
-        <h1>LearnLab</h1>
+        <h1>Bodhi</h1>
         <p>
 					Learning possibilities !
         </p>
