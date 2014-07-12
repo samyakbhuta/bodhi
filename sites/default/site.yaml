@@ -29,4 +29,4 @@ page:
 
     # Top-right navigation helper.
     menu_pull:
-      - { text: "Home", url: "/" }
+      - { text: "Admin", url: "/Admin" }

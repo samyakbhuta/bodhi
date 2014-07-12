@@ -7,4 +7,4 @@ On the left you have link to all standards. Click on the relevant link to explor
 * Have fun while watching [Indus Valley Civilization](https://www.youtube.com/watch?v=n7ndRwqJYDM)
 
 ##### Are you admin ?
-If you are managing this content head over to [Admin's Guide](www.google.com) to learn more and get yourself acquainted.
+If you are managing this content head over to [Admin's Guide](/Admin) to learn more and get yourself acquainted.
