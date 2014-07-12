@@ -11,3 +11,6 @@
 * [Night Sky: Navigating the Constellations](https://www.youtube.com/watch?v=Hm2MKez7atI)
 * [Universe - Phases of Moon](https://www.youtube.com/watch?v=78Zmpuf7h6M)
 
+#### Viewing night sky on your screen
+
+* Checkout this uber cool application that allows you to see night sky even in day time. It is called [Stellarium](http://www.stellarium.org/)
