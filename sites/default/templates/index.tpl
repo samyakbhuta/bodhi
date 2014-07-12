@@ -88,7 +88,7 @@
         </p>
 
         <p class="pull-right">
-          <a href="http://www.google.com" target="_blank" class="btn btn-large btn-primary">
+          <a href="http://samyakbhuta.github.io/bodhi/" target="_blank" class="btn btn-large btn-primary">
             Visit our site !
           </a>
         </p>
