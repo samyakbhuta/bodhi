@@ -31,9 +31,14 @@ If you have found a great teaching aid (be it a video or a book or a diagram or 
 
 #### Contribution for Feature and Design
 
-If you are coder or designer you might want to have a look at our [issue tracker](https://github.com/samyakbhuta/bodhi/issues) and squash some'em for us !
+If you are coder or designer you might want to have a look at our [issue tracker](https://github.com/samyakbhuta/bodhi/issues) and squash some'em for us! Feel free to put feature requests as well.
 
 ## Installating and Running
+
+* Dowload and extract [this Zip](https://github.com/samyakbhuta/bodhi/zipball/master) or [this Tar Ball](https://github.com/samyakbhuta/bodhi/tarball/master).
+
+* Go to the extracted folder.
+
 
 * Start the ```luminos``` server.
 
